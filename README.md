@@ -165,6 +165,37 @@ The portal gracefully handles:
 
 ---
 
+# Screenshots
+
+## Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+## Redacted Transcript
+
+![Transcript](screenshots/transcript.png)
+
+---
+
+## Summary
+
+![Summary](screenshots/summary.png)
+
+---
+
+## Key Points
+
+![Key Points](screenshots/keyPoints.png)
+
+---
+
+## Audit Logs
+
+![Audit](screenshots/audit.png)
+
+
 # Author
 
 Astha Adhikari
