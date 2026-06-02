@@ -169,25 +169,25 @@ The portal gracefully handles:
 
 ## Home Page
 
-![Home](screenshots/home.png)
+![Home](home.png)
 
 ---
 
 ## Redacted Transcript
 
-![Transcript](screenshots/transcript.png)
+![Transcript](transcript.png)
 
 ---
 
 ## Summary
 
-![Summary](screenshots/summary.png)
+![Summary](summary.png)
 
 ---
 
 ## Key Points
 
-![Key Points](screenshots/keyPoints.png)
+![Key Points](keyPoints.png)
 
 ---
 
