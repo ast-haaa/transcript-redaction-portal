@@ -1,4 +1,4 @@
-Use this as your final `README.md` 😭🔥
+
 
 # Transcript Redaction Portal
 
