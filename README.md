@@ -193,7 +193,7 @@ The portal gracefully handles:
 
 ## Audit Logs
 
-![Audit](screenshots/audit.png)
+![Audit](audit.png)
 
 
 # Author
